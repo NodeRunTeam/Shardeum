@@ -8,21 +8,21 @@ wget https://raw.githubusercontent.com/NodeRunTeam/Shardeum/main/Install.sh && c
 
 После этого терминал будет задавать вам вопросы, на которые отвечаем, чтобы настроить свой веб — дешборд:
 
-Do you want to run the web based Dashboard? (y/n): y
+_Do you want to run the web based Dashboard? (y/n): y_
 
 Придумываем и устанавливаем свой пароль ( пароль НЕ отображается, но он есть) :
 
-Set the password to access the Dashboard:
+_Set the password to access the Dashboard:_
 
 Добавляем пользовательский порт для дешборда или обычный 8080 ( просто нажмите Enter ):
 
-Enter the port (1025-65536) to access the web based Dashboard (default 8080):
+_Enter the port (1025-65536) to access the web based Dashboard (default 8080):_
 
 Указываем пользовательскую директорию или просто нажмите Enter для дефолтной установки:
 
-What base directory should the node use (defaults to ~/.shardeum):
+_What base directory should the node use (defaults to ~/.shardeum):_
 
-После установки конечный результат выглядит вот так :
+
 
 Открываем CLI валидатора:
 
