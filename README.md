@@ -1,0 +1,2 @@
+# Shardeum
+Shardeum guide node
