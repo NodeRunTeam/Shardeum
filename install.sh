@@ -12,3 +12,9 @@ sudo chmod +x /usr/local/bin/docker-compose
 sleep 3
 curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh && chmod +x installer.sh && ./installer.sh
 sleep 3
+cd .shardeum
+sleep 3
+./shell.sh
+sleep 3
+operator-cli gui start
+sleep 3
